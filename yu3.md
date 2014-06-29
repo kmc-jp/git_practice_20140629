@@ -4,7 +4,7 @@ I couldn't write Japanese at this environment.
 
 So, I write it in English.
 
-Ç¡ÇƒÇ…ÇŸÇÒÇ≤Ç©ÇØÇÈÇÃÇ©Ç»ÅB
+(j)Mojibake shite kanashii.
 
 Nice to meet you!
 
