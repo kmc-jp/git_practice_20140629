@@ -4,7 +4,7 @@ I couldn't write Japanese at this environment.
 
 So, I write it in English.
 
-(j)Mojibake shite kanashii.
+SJISは早く滅びてUTF-8になればいいのに[要出典]
 
 Nice to meet you!
 
