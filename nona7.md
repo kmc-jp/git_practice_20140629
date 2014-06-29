@@ -1,3 +1,3 @@
 のなです！
 
-[ついったーやってません](https://twitter.com/nonamea774)
+[@nonamea774](https://twitter.com/nonamea774) です.
